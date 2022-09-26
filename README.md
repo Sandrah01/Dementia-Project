@@ -1,4 +1,7 @@
 # Dementia-Project
+Dementia is the seventh leading cause of mortality. it Leads to stigmatization and barriers to diagnosis and care.
+
+
 The data was collected from Kaggle and the description is as follows:
 
 consists of a longitudinal collection of 150 subjects aged 60 to 96
@@ -13,7 +16,10 @@ Each subject was scanned on two or more visits, for a total of 373 imaging sessi
 14 patients were categorized as converted
 
 Important features are; "EDUC", "Sex","CDR","eTIV","MMSE","Age","nWBV"
+
 *eTIV - Estimated Total Intracranal Volume
+
 *MMSE - Mini Mental State Examination
+
 *nWBV - Normalised Whole Brain Volume
 
